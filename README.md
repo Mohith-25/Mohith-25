@@ -1,4 +1,5 @@
-Hi, I'm Mohith 🚀
+## Hi, I'm Mohith 🚀
+
 🎓 Final-year ECE student at Amrita Vishwa Vidyapeetham, Bengaluru
 💻 I build creative, responsive full-stack web apps using Angular, React & Node.js
 📡 I also design RF circuits (like LNAs) using ADS for wireless and radar systems
