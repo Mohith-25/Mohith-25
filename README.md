@@ -1,6 +1,6 @@
 ## Hi, I'm Mohith 🚀
 
-🎓 M.Tech in Artificial Intelligence & Data Science at Amrita Vishwa Vidyapeetham, Faridabad (2025 – 2027), CGPA 8.85/10
+🎓 M.Tech in Artificial Intelligence & Data Science at Amrita Vishwa Vidyapeetham, Faridabad
 
 🔁 B.Tech in Electronics & Communication Engineering (Amrita Bengaluru), which is where my systems-level, requirements-first way of building comes from
 
