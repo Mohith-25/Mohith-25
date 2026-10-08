@@ -1,10 +1,10 @@
 ## Hi, I'm Mohith 🚀
 
-🎓 Final-year ECE student at Amrita Vishwa Vidyapeetham, Bengaluru<br/>
-💻 I build creative, responsive full-stack web apps using Angular, React & Node.js<br/>
-📡 I also design RF circuits (like LNAs) using ADS for wireless and radar systems<br/>
-🌐 Sharing my projects, code, and learnings here on GitHub<br/>
-✨ Let’s build, learn, and connect!
+🎓 M.Tech in Artificial Intelligence & Data Science at Amrita Vishwa Vidyapeetham, Faridabad (2025 – 2027), CGPA 8.85/10
+🔁 B.Tech in Electronics & Communication Engineering (Amrita Bengaluru), which is where my systems-level, requirements-first way of building comes from
+🤖 Focused on Retrieval-Augmented Generation, multi-agent systems and tool-calling LLM apps
+🛡️ I like pairing LLMs with deterministic, auditable logic: rules make the decisions, the model explains them
+📈 Side interest: financial markets, trading systems and time-series ML
 
 
 
