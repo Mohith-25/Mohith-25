@@ -1,9 +1,13 @@
 ## Hi, I'm Mohith 🚀
 
 🎓 M.Tech in Artificial Intelligence & Data Science at Amrita Vishwa Vidyapeetham, Faridabad (2025 – 2027), CGPA 8.85/10
+
 🔁 B.Tech in Electronics & Communication Engineering (Amrita Bengaluru), which is where my systems-level, requirements-first way of building comes from
+
 🤖 Focused on Retrieval-Augmented Generation, multi-agent systems and tool-calling LLM apps
+
 🛡️ I like pairing LLMs with deterministic, auditable logic: rules make the decisions, the model explains them
+
 📈 Side interest: financial markets, trading systems and time-series ML
 
 
